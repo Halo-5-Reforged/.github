@@ -42,7 +42,7 @@ tracks working features, ongoing work, and plans.
 
 | Area | Progress in development builds |
 | --- | --- |
-| **Campaign** | All 15 missions load into gameplay. Osiris has been completed on all four difficulties; completion checks for the remaining missions continue. |
+| **Campaign** | Fully working in development builds, with all 15 missions played through to completion. Osiris has also been completed on all four difficulties. |
 | **Co-op** | Two-player online Campaign has been tested on a separate dedicated server. Checkpoint reliability, sustained play, and mission transitions need more work; four-player support is planned. |
 | **Multiplayer** | Custom Games, saved custom modes, friends, and fireteam invitations are working. Bots are experimental; Arena playlists and matchmaking are planned. |
 | **Warzone** | All eight Firefight maps pass initial loading, first-round, and return-to-menu checks. Full five-round coverage, in-match REQ use, and reliable results remain in progress. |
